@@ -328,7 +328,7 @@
                 });
             }
         </script>
-        <div class="row diamond random-algoritmasi"  :class="['cat' + vip.id, 'banner' + diamond.grid]">
+        <div class="row diamond"  :class="['cat' + vip.id, 'banner' + diamond.grid]">
             <div class="col" v-if="_.find(client.sites, ['site', site.site])" v-for="(site,siteKey) in _.orderBy(diamond.sites, [item => parseInt(item.sort)], ['asc'])" >
                 <a target="_blank" onclick="click_say(this)" :site="_.find(client.sites, ['site', site.site]).site"  :href="_.find(client.sites, ['site', site.site]).url" class="item" v-bind:style="{
     '--site-color': _.find(client.sites, ['site', site.site]).color,
@@ -574,7 +574,7 @@
             },50)
         }
         */
-        
+
     });
 
 </script>
