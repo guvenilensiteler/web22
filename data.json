@@ -16,18 +16,6 @@
         "slider_img": ""
       },
       {
-        "url": "https://bit.ly/ogexbetewin",
-        "desc": [
-          "999TL KAYIT BONUSU"
-        ],
-        "site": "betewin",
-        "sort": null,
-        "color": "#ff8d14",
-        "miktar": "₺999",
-        "promo_code_yok": "KAYIT OL 999TL BONUS AL",
-        "slider_img": ""
-      },
-      {
         "url": "https://bit.ly/ogexbankobet",
         "desc": [
           "1.111 TL NAKİT - 111 FREE SPIN"
@@ -103,6 +91,18 @@
         "miktar": "₺100",
         "promo_code": null,
         "promo_code_yok": "VEYA 100 FREE BET",
+        "slider_img": ""
+      },
+      {
+        "url": "https://bit.ly/ogexbetewin",
+        "desc": [
+          "999TL KAYIT BONUSU"
+        ],
+        "site": "betewin",
+        "sort": null,
+        "color": "#ff8d14",
+        "miktar": "₺999",
+        "promo_code_yok": "KAYIT OL 999TL BONUS AL",
         "slider_img": ""
       }
     ],
@@ -198,31 +198,31 @@
             "sort": "1"
           },
           {
-            "site": "betewin",
+            "site": "bankobet",
             "sort": "2"
           },
           {
-            "site": "bankobet",
+            "site": "tarafbet",
             "sort": "3"
           },
           {
-            "site": "tarafbet",
+            "site": "betkom",
             "sort": "4"
           },
           {
-            "site": "betkom",
+            "site": "bahiscom",
             "sort": "5"
           },
           {
-            "site": "bahiscom",
+            "site": "mariobet",
             "sort": "6"
           },
           {
-            "site": "mariobet",
+            "site": "galabet",
             "sort": "7"
           },
           {
-            "site": "galabet",
+            "site": "betewin",
             "sort": "8"
           }
         ]
